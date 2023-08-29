@@ -25,8 +25,8 @@
 // События документа:
 
 // DOMContentLoaded – когда HTML загружен и обработан, DOM документа полностью построен и доступен.
-// CSS events:
 
+// CSS events:
 // transitionend – когда CSS-анимация завершена.
 
 
